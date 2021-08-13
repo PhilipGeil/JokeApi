@@ -1,0 +1,15 @@
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\JokeApi.exe
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\JokeApi.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\JokeApi.deps.json
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\JokeApi.runtimeconfig.json
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\JokeApi.pdb
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\System.Web.Http.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phil2643\source\repos\JokeApi\JokeApi\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
